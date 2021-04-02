@@ -1,6 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 # Project 2: The Next Web
-![screenshot](./img-sh.png)
+![screenshot](./cap1.png)
+![screenshot](./cap2.png)
+![screenshot](./cap3.png)
+![screenshot](./cap4.png)
 
 [Live Demo Link](https://victoromart.github.io/The-Next-W/)
 
