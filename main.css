@@ -261,10 +261,11 @@ img.corp-logo2 {
   width: 60vw;
   height: 30.8vw;
   grid-area: hl1;
-  background: linear-gradient(
-      to bottom right,
-      rgba(243, 47, 47, 0.582) 0%,
-      rgba(24, 3, 15, 0.82) 80%
+  background: 
+    linear-gradient(
+        to bottom right,
+        rgba(243, 47, 47, 0.582) 0%,
+        rgba(24, 3, 15, 0.82) 80%
     ),
     url("images/image1.jpg"),
     url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Opal.jpg);
@@ -272,10 +273,11 @@ img.corp-logo2 {
 }
 
 .left-hl:hover {
-  background: linear-gradient(
-      to bottom right,
-      rgba(247, 130, 130, 0.582) 0%,
-      rgba(48, 31, 40, 0.82) 80%
+  background: 
+    linear-gradient(
+        to bottom right,
+        rgba(247, 130, 130, 0.582) 0%,
+        rgba(48, 31, 40, 0.82) 80%
     ),
     url("images/image1.jpg"),
     url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Opal.jpg);
