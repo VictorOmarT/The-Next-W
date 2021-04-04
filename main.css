@@ -89,10 +89,6 @@ header {
   margin-right: 10px;
 }
 
-.black-nav-link{
-  color:#fff;
-}
-
 a.black-nav-link {
   color: #555;
   text-decoration: none;
@@ -852,8 +848,6 @@ img.corp-logo2 {
     display: none;
   }
 
-  
-
   .logo {
     display: none;
   }
@@ -979,12 +973,7 @@ img.corp-logo2 {
   }
 
   .left-hl:hover {
-    background: linear-gradient(
-        to bottom,
-        rgba(245, 246, 252, 0.733) 0%,
-        rgba(95, 73, 85, 0.5) 80%
-      ),
-      url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Opal.jpg);
+    background: linear-gradient(to bottom, rgba(245, 246, 252, 0.733) 0%, rgba(95, 73, 85, 0.5) 80%), url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Opal.jpg);
     background-size: cover;
   }
 
